@@ -28,7 +28,7 @@ Esta es una aplicación de quiz interactiva desarrollada en React. El proyecto t
 
   ## 🚀 Empezar
 
-### 1. Clona este repositorio: [repo]([(https://github.com/w4lner/04-react_quiz.git)]
+### 1. Clona este repositorio: [repo][(https://github.com/w4lner/04-react_quiz.git)]
 
   ```bash
     git clone https://github.com/w4lner/04-react_quiz.git
